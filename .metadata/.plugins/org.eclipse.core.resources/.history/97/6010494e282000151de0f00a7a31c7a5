@@ -1,0 +1,12 @@
+package com.gmail.triforcedragon.LinkTools;
+
+import org.bukkit.plugin.java.JavaPlugin;
+
+public final class LinkTools extends JavaPlugin {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
